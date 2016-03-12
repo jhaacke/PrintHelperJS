@@ -1,0 +1,20 @@
+{
+  "name": "PrintHelperJS",
+  "version": "0.0.1",
+  "description": "A simple test library",
+  "main": "printHelper.js",
+  "keywords": [
+    "print"
+  ],
+  "authors": [
+    "jhaacke"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
